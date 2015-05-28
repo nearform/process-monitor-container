@@ -1,5 +1,5 @@
 {
-  "name": "process-container",
+  "name": "process-monitor-container",
   "description": "nscale standard process container",
   "keywords": [
     "nearForm",
